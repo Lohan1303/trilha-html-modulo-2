@@ -20,7 +20,7 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(78, 78, 78);
     padding: 10px 20px 0px;
 }
 .header {
@@ -35,4 +35,11 @@ body {
 .footer {
     background-color: rgb(99, 56, 240);
     min-height: 150px;
+    
+}
+li, a
+{
+    color: #f1f1f1;
+    margin-bottom: 10px;
+    text-decoration: none;
 }
